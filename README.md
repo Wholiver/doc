@@ -19,7 +19,7 @@
 2. **页面内链接**：文档中会包含相关内容的链接，点击可跳转
 3. **搜索功能**：如果使用了支持搜索的 Wiki 系统，可以直接搜索关键词
 
-## 📌 重要信息
+## 📌 服务器信息
 
 <div style="display: flex; justify-content: center; margin-bottom: 16px;">
   <div style="background-color: #fff3e0; width: 100%; max-width: 800px; padding: 16px; border-radius: 8px; border-left: 4px solid #ff9800;">
@@ -32,26 +32,6 @@
         版本: Java 1.21.4
       </div>
     </div>
-  </div>
-</div>
-
-### 新手帮助
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 12px; margin: 12px 0;">
-  <div style="background-color: #fff; padding: 12px; border-radius: 6px; border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <strong>❓ [新手常见问题](faq)</strong>
-    <p style="margin: 4px 0; color: #666; font-size: 14px;">解答新玩家最常遇到的各类疑问</p>
-  </div>
-  <div style="background-color: #fff; padding: 12px; border-radius: 6px; border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <strong>💻 [新手常用指令](commands)</strong>
-    <p style="margin: 4px 0; color: #666; font-size: 14px;">掌握服务器必备指令，提升游戏体验</p>
-  </div>
-  <div style="background-color: #fff; padding: 12px; border-radius: 6px; border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <strong>🔍 [东西丢了怎么办？](lost-items)</strong>
-    <p style="margin: 4px 0; color: #666; font-size: 14px;">物品找回流程与注意事项</p>
-  </div>
-  <div style="background-color: #fff; padding: 12px; border-radius: 6px; border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <strong>🚫 [原版内容违禁表](prohibited-structures)</strong>
-    <p style="margin: 4px 0; color: #666; font-size: 14px;">必看！禁止制作与搭建的内容</p>
   </div>
 </div>
 
