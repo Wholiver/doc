@@ -1,6 +1,6 @@
-# Minecraft 服务器 Wiki
+# 云栖谷服务器 Wikimei
 
-欢迎来到我们的 Minecraft 服务器 wiki。本服致力于提供轻松有趣的多人游戏体验。
+欢迎来到我们的服务器 wiki。本服致力于提供轻松有趣的多人游戏体验。
 
 ## 服务器信息
 - 地址：`mc.mcyqg.top`
