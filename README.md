@@ -46,8 +46,8 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0;">
   <div style="flex: 1; min-width: 300px; background-color: #fff; border-radius: 8px; border: 1px solid #ddd; overflow: hidden;">
-    <div style="background-color: #4caf50; color: white; padding: 12px; font-weight: bold;">
-      👶 新玩家路径
+    <div style="background-color: #4caf50; color: white; padding: 12px; font-weight: bold; cursor: pointer;">
+      <a href="rules" style="color: white; text-decoration: none;">👶 新玩家路径</a>
     </div>
     <div style="padding: 12px;">
       <ol>
@@ -60,8 +60,8 @@
   </div>
   
   <div style="flex: 1; min-width: 300px; background-color: #fff; border-radius: 8px; border: 1px solid #ddd; overflow: hidden;">
-    <div style="background-color: #2196f3; color: white; padding: 12px; font-weight: bold;">
-      🏆 老玩家路径
+    <div style="background-color: #2196f3; color: white; padding: 12px; font-weight: bold; cursor: pointer;">
+      <a href="changelog" style="color: white; text-decoration: none;">🏆 老玩家路径</a>
     </div>
     <div style="padding: 12px;">
       <ol>
@@ -75,14 +75,16 @@
 
 ## 📌 重要信息
 
-<div style="background-color: #fff3e0; padding: 16px; border-radius: 8px; border-left: 4px solid #ff9800; margin-bottom: 16px;">
-  <h3 style="margin-top: 0;">🚨 快速连接</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-    <div style="background-color: #fff; padding: 8px 12px; border-radius: 4px; border: 1px solid #ffcc80; font-family: monospace;">
-      服务器地址: <strong>mc.mcyqg.top</strong>
-    </div>
-    <div style="background-color: #fff; padding: 8px 12px; border-radius: 4px; border: 1px solid #ffcc80;">
-      版本: Java 版最新稳定版
+<div style="display: flex; justify-content: center; margin-bottom: 16px;">
+  <div style="background-color: #fff3e0; width: 100%; max-width: 800px; padding: 16px; border-radius: 8px; border-left: 4px solid #ff9800;">
+    <h3 style="margin-top: 0; text-align: center;">🚨 快速连接</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: center;">
+      <div style="background-color: #fff; padding: 8px 12px; border-radius: 4px; border: 1px solid #ffcc80; font-family: monospace;">
+        服务器地址: <strong>mc.mcyqg.top</strong>
+      </div>
+      <div style="background-color: #fff; padding: 8px 12px; border-radius: 4px; border: 1px solid #ffcc80;">
+        版本: Java 版最新稳定版
+      </div>
     </div>
   </div>
 </div>
