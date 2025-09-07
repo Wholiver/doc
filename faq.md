@@ -47,37 +47,6 @@
   </ul>
 </div>
 
-## 🎯 服务器内有哪些特色玩法？
-
-<div class="card" style="background-color: #cce7ff; border: 1px solid #bee5eb; border-radius: 8px; padding: 16px; margin: 16px 0;">
-  <p style="margin-bottom: 12px;">我们服务器提供多种特色玩法：</p>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">
-    <div style="flex: 1 1 200px; background-color: white; border-radius: 6px; padding: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <h4 style="margin-top: 0; color: #42b983;">🌱 原版生存</h4>
-      <p style="font-size: 14px; margin-bottom: 0;">保持原版游戏体验，适度优化提升乐趣</p>
-    </div>
-    <div style="flex: 1 1 200px; background-color: white; border-radius: 6px; padding: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <h4 style="margin-top: 0; color: #42b983;">🎉 定期活动</h4>
-      <p style="font-size: 14px; margin-bottom: 0;">小游戏、竞赛和社区活动，丰富游戏体验</p>
-    </div>
-    <div style="flex: 1 1 200px; background-color: white; border-radius: 6px; padding: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <h4 style="margin-top: 0; color: #42b983;">🗺️ 冒险探索</h4>
-      <p style="font-size: 14px; margin-bottom: 0;">定制冒险内容和探索玩法，发现更多乐趣</p>
-    </div>
-    <div style="flex: 1 1 200px; background-color: white; border-radius: 6px; padding: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <h4 style="margin-top: 0; color: #42b983;">👥 社区互动</h4>
-      <p style="font-size: 14px; margin-bottom: 0;">友好的社区氛围，多样的玩家互动方式</p>
-    </div>
-  </div>
-  
-  <p style="text-align: center; margin: 16px 0;">
-    <strong><a href="guide" style="text-decoration: none; color: #004085;">查看详细攻略</a></strong>
-    <span style="margin: 0 12px;">|</span>
-    <strong><a href="adventure" style="text-decoration: none; color: #004085;">探索冒险玩法</a></strong>
-  </p>
-</div>
-
 ## 🆘 如何获取帮助？
 
 <div class="card" style="background-color: #f8d7da; border: 1px solid #f5c6cb; border-radius: 8px; padding: 16px; margin: 16px 0;">
