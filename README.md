@@ -21,7 +21,7 @@
 - [BETA版更新日志 - V0.3](changelog)
 - [BETA版更新日志 - v0.2](changelog)
 - [BETA版更新日志 - v0.1](changelog)
-- [蟹服.编年史](announcements) - 服务器发展历程
+- [云栖谷编年史](announcements) - 服务器发展历程
 
 ## 🎉 限时活动进行时
 
