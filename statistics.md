@@ -1,5 +1,5 @@
 <div align="center" style="padding: 40px 20px; background-color: #f5f5f5; border-radius: 8px; margin: 20px 0;">
-  <h2 style="color: #333; margin-bottom: 16px;">板块玩法与统计</h2>
+  <h2 style="color: #333; margin-bottom: 16px;">玩法与统计</h2>
   <p style="font-size: 18px; color: #666;">探索云栖谷丰富多彩的游戏板块，了解各类玩法的参与情况</p>
 </div>
 
