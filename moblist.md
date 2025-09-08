@@ -4,91 +4,48 @@
   ⚠️ 注意：以下生物目前仅在生存一区实装，二区暂未开放
 </div>
 
-## 📅 特色生物合集
+## MobVote +18 Mobs
 
-这里汇总了特色生物，每个生物都有其独特的外观和特性。
+### WHAT ELSE DOES IT BRING?
 
-<div class="生物卡片" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">Barnacle</h4>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">Great Hunger</h4>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">Wildfire</h4>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">鹿 (Deer)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括幼鹿 (Baby Deer)</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">白海豚 (White Dolphin)</h4>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">鳄鱼 (Alligator)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括幼鳄 (Baby Alligator)</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">猴子 (Monkey)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括幼猴 (Baby Monkey)</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">秃鹫 (Vulture)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括幼秃鹫 (Baby Vulture)</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">猫鼬 (Meerkat)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括幼猫鼬 (Baby Meerkat)</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">鸵鸟 (Ostrich)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括幼鸵鸟 (Baby Ostrich)</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">哞花 (MooBloom)</h4>
-    <p style="color: #666; margin-bottom: 0;">13种样式</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">冰术师 (Iceologer)</h4>
-    <p style="color: #666; margin-bottom: 0;">Ice Cube</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">眩光 (Glare)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括开花眩光 (Flowering Glare)</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">铜傀儡 (Copper Golem)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括暴露状态 (Exposed Copper Golem)</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">氧化铜傀儡</h4>
-    <p style="color: #666; margin-bottom: 0;">包括风化 (Weathered) 和完全氧化 (Oxidized) 状态</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">捣蛋鬼 (Rascal)</h4>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">凝灰岩傀儡 (Tuff Golem)</h4>
-    <p style="color: #666; margin-bottom: 0;">16种颜色</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">螃蟹 (Crab)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括幼蟹 (Baby Crab)</p>
-  </div>
-  <div style="background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: calc(25% - 15px); min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #333; margin-top: 0;">企鹅 (Penguin)</h4>
-    <p style="color: #666; margin-bottom: 0;">包括幼企鹅 (Baby Penguin)</p>
-  </div>
-</div>
+- **Masky MobVote 2017:**
+  - Barnacle
+  - Great Hunger
+  - Wildfire
 
-## ⚙️ 其他配置选项
+- **WildfireVote 2018 China:**
+  - Deer, Baby Deer
+  - White Dolphin
+  - Alligator, Baby Alligator
 
-- 支持 Mcg 4 配置
-- 支持 MythicMobs 配置
+- **Monkey MobVote 2019:**
+  - Monkey, Baby Monkey
+  - Vulture, Baby Vulture
+  - Meerkat, Baby Meerkat
+  - Ostrich, Baby Ostrich
 
-## 小型展示
+- **Masky MobVote 2020:**
+  - MooBloom (13 Styles)
+  - Iceologer: Ice Cube
 
-<div style="background-color: #f9f9f9; border-left: 4px solid #2196F3; padding: 12px; border-radius: 4px; margin-bottom: 20px;">
-  此部分提供小型展示功能，方便查看生物的外观和特性
-</div>
+- **Masky MobVote 2021:**
+  - Glare & Flowering Glare
+  - Copper Golem
+  - Exposed Copper Golem
+  - Weathered Copper Golem
+  - Oxidized Copper Golem
+
+- **Masky MobVote 2022:**
+  - Rascal
+  - Tuff Golem (16 Colors)
+
+- **Masky MobVote 2023:**
+  - Crab, Baby Crab
+  - Penguin, Baby Penguin
+
+## Also Includes:
+
+- Configuration for Mcg 4
+- Configuration for MythicMobs
+
+## Mini Showcase
