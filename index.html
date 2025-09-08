@@ -87,6 +87,11 @@
       maxLevel: 3,
       homepage: 'README.md',
       coverpage: false,
+      progress: {
+        position: "top",
+        color: "var(--theme-color,#42b983)",
+        height: "3px",
+      },
       search: {
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
         paths: 'auto',
@@ -150,6 +155,9 @@
   
   <!-- 图片懒加载 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  
+  <!-- 进度条插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
 </body>
 
 </html>
