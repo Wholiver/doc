@@ -135,9 +135,3 @@
     </table>
   </div>
 </div>
-
-## 🔧 如何编辑物品掉落率？
-
-<div style="background-color: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #17a2b8; margin-bottom: 25px;">
-  <p style="margin: 0;">自定义物品掉落率可以在 unlimited_adventures/CustomItems/drops.yml 文件中修改。</p>
-</div>
